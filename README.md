@@ -1,2 +1,2 @@
 # RecycleViewProjectV2
-Recycle view porject CPS251
+Recycle view project CPS251
